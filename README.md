@@ -1,5 +1,7 @@
-### Hi there 👋 Im Nathan Thompson
+### Hi there 👋 My Name is Nathan Thompson
 
+### Learning system level programming.
+### Check out my best work in the nsquared repo!
 <!--
 **nathanthomp/nathanthomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
