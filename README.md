@@ -1,4 +1,18 @@
 ### Hi 👋 My name is Nathan Thompson
+
+<!--
+Experience and History
+-->
+
+<!--
+Programming Languages
+Java ***
+C# ***
+C ***
+SQL *
+ASM *
+-->
+
 - 🔭 I’m currently working on nsquared and sportsbetter
 - 🌱 I'm currently learning system level programming
 
