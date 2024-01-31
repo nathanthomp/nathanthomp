@@ -12,7 +12,7 @@ C ***
 SQL *
 ASM *
 -->
-
+- 📖 I'm currently studying at Franklin University
 - 🔭 I’m currently working on nsquared and sportsbetter
 - 🌱 I'm currently learning system level programming
 
