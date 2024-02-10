@@ -16,7 +16,7 @@ ASM *
 - 🔭 I’m currently working on nsquared and sportsbetter
 - 🌱 I'm currently learning system level programming
 
-Check out my best work in the nsquared repo!
+Check out my best work below!
 <!--
 **nathanthomp/nathanthomp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
