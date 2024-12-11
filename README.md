@@ -2,6 +2,7 @@
 
 - 📖 I'm currently studying at Franklin University
 - 💡 I'm skilled in the Java, C#, and C/C++ programming languages
-- 📄 Check out my portfolio [here](https://www.nathanthomp.com)
+- 📄 I'm currently building a cpu emulator, programming language transpiler, and a web scraper for sports betting odds
+
 
 Check out my best work below!
