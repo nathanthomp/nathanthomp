@@ -5,4 +5,4 @@
 - 📄 I'm currently building a cpu emulator, programming language transpiler, and a web scraper for sports betting odds
 
 
-Check out my best work below! 
+Check out my best work below!  
